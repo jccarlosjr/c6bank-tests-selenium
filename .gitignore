@@ -1,0 +1,32 @@
+# Enviroment
+venv/
+.venv
+.env
+*.env
+
+# Files and folders created by pytest
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.cache/
+
+# Reports and logs
+reports/
+*.log
+*.html
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Webdrivers
+chromedriver.exe
+geckodriver.exe
