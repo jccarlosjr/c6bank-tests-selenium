@@ -55,6 +55,12 @@ source venv/bin/activate       # Linux/macOS
 pip install -r requirements.txt
 ```
 
+4. Setup user and password:
+
+```
+in config/config.py set up the user and password
+```
+
 ---
 
 ## 🧪 Running the Tests
@@ -163,6 +169,12 @@ source venv/bin/activate       # Linux/macOS
 
 ```bash
 pip install -r requirements.txt
+```
+
+4. Configure usuário e senha:
+
+```
+Em config/config.py configure usuário e senha
 ```
 
 ---
